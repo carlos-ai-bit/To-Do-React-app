@@ -8,28 +8,28 @@ export default function SignUp() {
             First Name
             <input
               placeholder="Your Name"
-              className="mb-6 cursor-pointer  text-center font-semibold border-solid border-2 border-sky-300 rounded-full"
+              className="mb-6 cursor-pointer  text-center  border-solid border-2 border-blue-700 rounded-full"
             ></input>
           </h4>
           <h4>
             Second Name
             <input
               placeholder="Your Email"
-              className="mb-6 cursor-pointer  text-center font-semibold border-solid border-2 border-sky-300 rounded-full"
+              className="mb-6 cursor-pointer  text-center  border-solid border-2 border-blue-700 rounded-full"
             ></input>
           </h4>
           <h4>
             Email
             <input
               placeholder="Your Name"
-              className="mb-6 cursor-pointer  text-center font-semibold border-solid border-2 border-sky-300 rounded-full"
+              className="mb-6 cursor-pointer  text-center  border-solid border-2 border-blue-700 rounded-full"
             ></input>
           </h4>
           <h4>
             Password
             <input
               placeholder="Your Password"
-              className="mb-6 cursor-pointer  text-center font-semibold border-solid border-2 border-sky-300 rounded-full"
+              className="mb-6 cursor-pointer  text-center  border-solid border-2 border-blue-700 rounded-full"
             ></input>
           </h4>
         </form>
